@@ -28,7 +28,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 
 ### Parte 1) Olá Mundo > Mão na massa 👾
 
-- 👀 Acompanhe a vídeo aula, veja o [guia textual](Parte01-olá-mundo.md) e assim saiba o passo a passo para fazer o primeiro Olá Mundo usando o mais popular framework web no mundo do Python
+- 👀 Acompanhe a vídeo aula, veja o [guia textual](Parte01-ola-mundo.md) e assim saiba o passo a passo para fazer o primeiro Olá Mundo usando o mais popular framework web no mundo do Python
 - ▶️ Replique cada passo e faça exatamente o mesmo Olá mundo rodar na sua máquina
 - 📝 Faça um guia com TODOS os passos necessários, desta forma você poderá revisar toda vez que for iniciar um projeto Django.
 - 🐞 Alguma coisa não ficou clara? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI](https://github.com/huogerac/guia-para-aprender-django/issues/1)
