@@ -4,8 +4,8 @@
 
 ### Objetivos
 
-- 👉 Aprender misturando prática e teoria
-- 👉 Seguir pequenos passos (Baby Steps)
+- 👉 Aprender misturando prática 👾 e teoria 📚
+- 👉 Seguir pequenos passos (Baby Steps 👶)
 - 👉 Melhorar este guia com sua ajuda (sua colaboração e participação é fundamental)
 
 ### ALERTA VERMELHO 🚨
