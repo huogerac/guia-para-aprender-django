@@ -97,4 +97,5 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 ### Quer ajudar? 👷
 
 - Estamos trabalhando neste material, tem muito rascunho ainda! Se tiver qualquer tipo de crítica ou sugestão, queremos saber! 💡
-- 👉[Qualquer tipo de ajuda é mais que bem-vinda!](https://github.com/huogerac/guia-para-aprender-django/discussions)
+- Acesse o link abaixo e crie uma **nova discussão**
+- 👉 [Qualquer tipo de ajuda é mais que bem-vinda!](https://github.com/huogerac/guia-para-aprender-django/discussions)
