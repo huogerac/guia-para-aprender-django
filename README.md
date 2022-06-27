@@ -49,7 +49,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Esta comunicação é diferente em projetos com o Front-end separado do Back-end?
 - 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/2)
 
-### Parte 3) Entendendo um pouco dos componentes práticos do Django & Web > Teoria 📚
+### Parte 3) Entendendo algumas pelas do Python, Django & Web > Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
 - Virtualenv?
@@ -72,7 +72,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Como linkar páginas
 - Como importar arquivos CSS & Imagens
 
-### Parte 5) Vamos publicar nossa aplicação? Olha o que estou fazendo pessoal! 🚀
+### Parte 5) Vamos publicar nossa aplicação? Hey, olha que eu fiz > Mão na massa 👾🚀
 
 - Vamos publicar nossa aplicação Django (a.k.a Deploy)
 
