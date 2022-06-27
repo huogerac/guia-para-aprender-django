@@ -49,7 +49,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Esta comunicação é diferente em projetos com o Front-end separado do Back-end?
 - 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/2)
 
-### Parte 3) Entendendo algumas pelas do Python, Django & Web > Teoria 📚
+### Parte 3) Entendendo algumas coisinhas do Python, Django & Web > Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
 - Virtualenv?
