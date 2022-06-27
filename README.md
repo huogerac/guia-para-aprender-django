@@ -14,7 +14,7 @@
 - DIGITE tudo, tudo mesmo! NUNCA copie o `comando` ou `código` deste tutorial
 - **CTRL + C** & **CTRL + V**, vão fazer você esquecer tudo em 42 minutos e além disto vai ficar sonhando com Django o Filme! 🎞 ou seja, perdeu seu tempo! 🤡
 - NUNCA PULE os passos, acredita que tem algo desnecessário (e pode ter 😔), registre sua sugestão nas [Issues 🐞](https://github.com/huogerac/guia-para-aprender-django/issues/) da parte correspondente!
-- NÃO ESQUEÇA! Django é um `Framework` ❓ Python e quanto mais você souber desta incrível linguagem 🐍, mais fácil você vai entender o Django
+- NÃO ESQUEÇA! Django é um `Framework` (O que❓) e Python sua fundação, desta maneira, quanto mais você souber desta incrível linguagem 🐍, mais fácil você vai entender o Django Web Framework
 
 ### Iniciando
 
@@ -78,17 +78,23 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 
 ### Parte 6)
 
-- Em construção 🧩
+- Em construção 🧩 👷
 
 ### Parte ...)
 
-- Em construção 🧩
+- Em construção 🧩 👷
 
-### Links úteis para quem quer se aprofundar
+### Links úteis para quem quer se aprofundar 🤿 ⛏️
 
 - [https://tutorial.djangogirls.org/pt/](https://tutorial.djangogirls.org/pt/)
+- [https://docs.djangoproject.com/pt-br/4.0/](https://docs.djangoproject.com/pt-br/4.0/) 👌
 - [http://www.gettingstartedwithdjango.com/](http://www.gettingstartedwithdjango.com/)
 - [https://realpython.com/get-started-with-django-1/](https://realpython.com/get-started-with-django-1/)
 - [https://www.tangowithdjango.com/](https://www.tangowithdjango.com/)
 - [https://godjango.com/](https://godjango.com/)
 - [https://www.youtube.com/c/Godjango/videos](https://www.youtube.com/c/Godjango/videos)
+
+### Quer ajudar? 👷
+
+- Estamos trabalhando neste material, tem muito rascunho ainda! Se tiver qualquer tipo de crítica ou sugestão, queremos saber! 💡
+- 👉[Qualquer tipo de ajuda é mais que bem-vinda!](https://github.com/huogerac/guia-para-aprender-django/discussions)
