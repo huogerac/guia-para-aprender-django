@@ -27,29 +27,33 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - 🖥️ Um terminal Linux (que já vem por padrão em qualquer distribuição Linux 🤘 ou pode ser instalado facilmente no Windows via WSL2)
 - Um editor de texto instalado, pode ser qualquer um da sua preferência
 
-### Parte 1) Olá Mundo > Mão na massa 👾
+### Parte 1) Olá Mundo | Mão na massa 👾
 
 - 👀 Acompanhe a vídeo aula, veja o [guia textual](Parte01-ola-mundo.md) e assim saiba o passo a passo para fazer o primeiro Olá Mundo usando o mais popular framework web no mundo do Python
 - ▶️ Replique cada passo e faça exatamente o mesmo Olá mundo rodar na sua máquina
 - 📝 Faça um guia com TODOS os passos necessários, desta forma você poderá revisar toda vez que for iniciar um projeto Django.
 - 🐞 Alguma coisa não ficou clara? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/1)
 
-### Parte 2) Anatomia do Django & Web > Teoria 📚
+### Parte 2) Entendendo um pouco da Web | Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
 - A importancia do `Request/Response` em projetos Web
 - Requisição e Resposta (`Request/Response`) em projetos web estático
 - Arquitetura (alto nível) Cliente/Servidor (`Client/Server`) também conhecido como Front-end/Back-end
-- Django é Front-end e Back-end ao mesmo tempo? 🤯 (WTF?)
+- Veja os [slides sobre o Request/Response + Cliente/Servidor](./assets/Web-Request_Response-v1.pdf)
+- 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/2)
+
+### Parte 3) Anatomia do Django & Web | Teoria 📚
+
+- Django é **Front-end** e **Back-end** ao mesmo tempo? 🤯 (WTF?)
 - A importância da estrutura de projetos no Django (e onde muitos frameworks falham miseravelmente)
 - Componentes fundamentais da parte Front-end 🕹️ (onde o show acontece, os usuários fazem interação com a aplicação)
 - Componentes fundamentais da parte Back-end 🪁 (os batidores para organizar os dados, validar ou fazer algum processamento e depois devolver a `Resposta/Response` para Front-end)
 - É possível fazer um projeto Django apenas com uma das duas partes (Front-end ou Back-end)?
 - Como é feito a comunicação 🧵 entre Front-end e Back-end no Django?
 - Esta comunicação é diferente em projetos com o Front-end separado do Back-end?
-- 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/2)
 
-### Parte 3) Entendendo algumas coisinhas do Python, Django & Web > Teoria 📚
+### Parte 4) Entendendo algumas coisinhas do Python, Django & Web | Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
 - Virtualenv?
@@ -62,7 +66,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Apaga tudo, e vamos subir (rodar) tudo novamente em minutos? (não é muito difícil ser segundos) - I love you Git 💙 + uns scripts (a.k.a como automatizar processos que executa coisas)
 - `manage.py`?
 
-### Parte 4) Nosso segundo projeto > Mão na massa 👾👾
+### Parte 5) Nosso segundo projeto | Mão na massa 👾👾
 
 - 👀 Acompanhe a vídeo aula
 - Qual a diferença entre `project & app`
@@ -72,11 +76,11 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Como linkar páginas
 - Como importar arquivos CSS & Imagens
 
-### Parte 5) Vamos publicar nossa aplicação? Hey, olha que eu fiz > Mão na massa 👾🚀
+### Parte 6) Vamos publicar nossa aplicação? Hey, olha que eu fiz | Mão na massa 👾🚀
 
 - Vamos publicar nossa aplicação Django (a.k.a Deploy)
 
-### Parte 6)
+### Parte 7)
 
 - Em construção 🧩 👷
 
