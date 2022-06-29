@@ -47,7 +47,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - A importancia do `Request/Response` em projetos Web
 - Requisição e Resposta (`Request/Response`) em projetos web estático
 - Arquitetura (alto nível) Cliente/Servidor (`Client/Server`) também conhecido como Front-end/Back-end
-- Veja os [slides sobre o Request/Response + Cliente/Servidor](./assets/Web-Request_Response-v1.pdf)
+- 🎯 Veja os [slides sobre o Request/Response + Cliente/Servidor](./assets/Web-Request_Response-v1.pdf)
 - 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/2)
 - **✅ Links úteis...**
 - [API em imagens - Tks Fabricio](https://twitter.com/EngineerRabbit/status/1541798162075193345?t=nGI4dWQg8Yg-L45HRF55Mw&s=19)
@@ -56,7 +56,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 
 - Django é **Front-end** e **Back-end** ao mesmo tempo? 🤯 (WTF?)
 - A importância da estrutura de projetos no Django
-- Veja os [slides sobre a Anatomia do Django](./assets/Anatomia-Django-E-Web-v1.pdf)
+- 🎯 Veja os [slides sobre a Anatomia do Django](./assets/Anatomia-Django-E-Web-v1.pdf)
 - 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/3)
 
 ### Parte 4) Entendendo algumas coisinhas do Python, Django & Web | Teoria 📚
