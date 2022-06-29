@@ -27,6 +27,13 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - 🖥️ Um terminal Linux (que já vem por padrão em qualquer distribuição Linux 🤘 ou pode ser instalado facilmente no Windows via WSL2)
 - Um editor de texto instalado, pode ser qualquer um da sua preferência
 
+### Legenda
+
+- 🎯 Material complementar ou slides
+- 👾 Prática
+- 📚 Teoria
+- 🐞 Enviar dúvida
+
 ### Parte 1) Olá Mundo | Mão na massa 👾
 
 - 👀 Acompanhe a vídeo aula, veja o [guia textual](Parte01-ola-mundo.md) e assim saiba o passo a passo para fazer o primeiro Olá Mundo usando o mais popular framework web no mundo do Python
@@ -42,16 +49,15 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Arquitetura (alto nível) Cliente/Servidor (`Client/Server`) também conhecido como Front-end/Back-end
 - Veja os [slides sobre o Request/Response + Cliente/Servidor](./assets/Web-Request_Response-v1.pdf)
 - 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/2)
+- **✅ Links úteis...**
+- [API em imagens - Tks Fabricio](https://twitter.com/EngineerRabbit/status/1541798162075193345?t=nGI4dWQg8Yg-L45HRF55Mw&s=19)
 
 ### Parte 3) Anatomia do Django & Web | Teoria 📚
 
 - Django é **Front-end** e **Back-end** ao mesmo tempo? 🤯 (WTF?)
-- A importância da estrutura de projetos no Django (e onde muitos frameworks falham miseravelmente)
-- Componentes fundamentais da parte Front-end 🕹️ (onde o show acontece, os usuários fazem interação com a aplicação)
-- Componentes fundamentais da parte Back-end 🪁 (os batidores para organizar os dados, validar ou fazer algum processamento e depois devolver a `Resposta/Response` para Front-end)
-- É possível fazer um projeto Django apenas com uma das duas partes (Front-end ou Back-end)?
-- Como é feito a comunicação 🧵 entre Front-end e Back-end no Django?
-- Esta comunicação é diferente em projetos com o Front-end separado do Back-end?
+- A importância da estrutura de projetos no Django
+- Veja os [slides sobre a Anatomia do Django](./assets/Anatomia-Django-E-Web-v1.pdf)
+- 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/3)
 
 ### Parte 4) Entendendo algumas coisinhas do Python, Django & Web | Teoria 📚
 
@@ -76,11 +82,19 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Como linkar páginas
 - Como importar arquivos CSS & Imagens
 
-### Parte 6) Vamos publicar nossa aplicação? Hey, olha que eu fiz | Mão na massa 👾🚀
+### Parte 6) Mais sobre os componentes | Teoria 📚
+
+- Componentes fundamentais da parte Front-end 🕹️ (onde o show acontece, os usuários fazem interação com a aplicação)
+- Componentes fundamentais da parte Back-end 🪁 (os batidores para organizar os dados, validar ou fazer algum processamento e depois devolver a `Resposta/Response` para Front-end)
+- É possível fazer um projeto Django apenas com uma das duas partes (Front-end ou Back-end)?
+- Como é feito a comunicação 🧵 entre Front-end e Back-end no Django?
+- Esta comunicação é diferente em projetos com o Front-end separado do Back-end?
+
+### Parte 7) Vamos publicar nossa aplicação? Hey, olha que eu fiz | Mão na massa 👾🚀
 
 - Vamos publicar nossa aplicação Django (a.k.a Deploy)
 
-### Parte 7)
+### Parte 8)
 
 - Em construção 🧩 👷
 
@@ -90,7 +104,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 
 ### Links úteis para quem quer se aprofundar 🤿 ⛏️
 
-- [https://tutorial.djangogirls.org/pt/](https://tutorial.djangogirls.org/pt/)
+- [https://tutorial.djangogirls.org/pt/](https://tutorial.djangogirls.org/pt/) 👌
 - [https://docs.djangoproject.com/pt-br/4.0/](https://docs.djangoproject.com/pt-br/4.0/) 👌
 - [http://www.gettingstartedwithdjango.com/](http://www.gettingstartedwithdjango.com/)
 - [https://realpython.com/get-started-with-django-1/](https://realpython.com/get-started-with-django-1/)
