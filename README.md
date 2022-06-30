@@ -59,7 +59,19 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - 🎯 Veja os [slides sobre a Anatomia do Django](./assets/Anatomia-Django-E-Web-v1.pdf)
 - 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/3)
 
-### Parte 4) Entendendo algumas coisinhas do Python, Django & Web | Teoria 📚
+### Parte 4) Nosso segundo projeto | Mão na massa 👾👾
+
+- 👀 Acompanhe a vídeo aula
+- Qual a diferença entre `project & app`
+- Vamos fazer os mesmos passos do [Passo 1)](README.md#parte-1-olá-mundo--mão-na-massa-), mas agora criando uma aplicação para listar uma lista de cursos (explorando apenas componentes Front-end)
+- Templates?
+- Como usar a linguagem de template para fazer reuso de páginas web? 👌
+- Como linkar páginas
+- Como importar arquivos CSS & Imagens
+- Usar variáveis de ambiente para modificar o settings.py
+- Exibir o usuário logado
+
+### Parte 5) Entendendo algumas coisinhas do Python, Django & Web | Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
 - Virtualenv?
@@ -71,16 +83,6 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Faz sentido usar SQLite?
 - Apaga tudo, e vamos subir (rodar) tudo novamente em minutos? (não é muito difícil ser segundos) - I love you Git 💙 + uns scripts (a.k.a como automatizar processos que executa coisas)
 - `manage.py`?
-
-### Parte 5) Nosso segundo projeto | Mão na massa 👾👾
-
-- 👀 Acompanhe a vídeo aula
-- Qual a diferença entre `project & app`
-- Vamos fazer os mesmos passos do [Passo 1)](README.md#parte-1-olá-mundo--mão-na-massa-), mas agora criando uma aplicação para listar uma lista de cursos (explorando apenas componentes Front-end)
-- Templates?
-- Como usar a linguagem de template para fazer reuso de páginas web? 👌
-- Como linkar páginas
-- Como importar arquivos CSS & Imagens
 
 ### Parte 6) Mais sobre os componentes | Teoria 📚
 
