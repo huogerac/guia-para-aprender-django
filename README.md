@@ -68,33 +68,56 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Como usar a linguagem de template para fazer reuso de páginas web? 👌
 - Como linkar páginas
 - Como importar arquivos CSS & Imagens
-- Usar variáveis de ambiente para modificar o settings.py
-- Exibir o usuário logado
+- Salvar as dependências instaladas para compartilhar com outros Devs 👌 (a.k.a `requirements.txt`)
+- Apaga tudo, e vamos subir (rodar) tudo novamente em minutos? (não é muito difícil ser segundos) - I love you Git 💙 + uns scripts (a.k.a como automatizar processos que executa coisas)
+- 🐞 Alguma coisa não ficou clara nesta parte? Alguma dúvida ou achou algo estranho ou muito mágico? Faça um comentário [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/4)
 
-### Parte 5) Entendendo algumas coisinhas do Python, Django & Web | Teoria 📚
+### Parte 5) Vamos continuar no projeto django_cursos | Mão na massa 👾👾
+
+- 👀 Acompanhe a vídeo aula
+- Usar variáveis de ambiente para modificar o settings.py
+- Rodar migrações
+- Faz sentido usar SQLite? 📈
+- Quais Apps 🧩 temos no projeto?
+- Como faço para saber as rotas do admin?
+- Admin?
+- Criar usuário e logar
+- Exibir o usuário logado
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/5)
+
+### Parte 6) Entendendo algumas coisinhas do Python & Django | Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
 - Virtualenv?
-- Saber a versão do Python?
 - Instalar dependências de S.O. (a.k.a `apt install`) e dependências da aplicação Python/Django (a.k.a `pip install`)
-- Salvar as dependências instaladas para compartilhar com outros Devs 👌 (a.k.a `requirements.txt`)
 - Fiquem tranquilos, logo mais também vamos falar de `Pipenv & Poetry` (Baby steps, lembra?)
-- É possível usar um banco de dados no Django sem instalar MariaDB, MySQL ou Postgres? 📈 (a.k.a. SQLite)
-- Faz sentido usar SQLite?
-- Apaga tudo, e vamos subir (rodar) tudo novamente em minutos? (não é muito difícil ser segundos) - I love you Git 💙 + uns scripts (a.k.a como automatizar processos que executa coisas)
-- `manage.py`?
+- Gerenciar mais de uma versão do Python?
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/6)
 
-### Parte 6) Mais sobre os componentes | Teoria 📚
+### Parte 7) Entendendo algumas coisinhas do | Mão na massa 👾👾
 
+- 👀 Acompanhe a vídeo aula
+- Utilizar um DB de produção no nosso Django local (Postgres ao invés SQLite)
+- Como manter estado dos dados? Gerenciar N Bancos?
+- Onde fica a conexão com o BD
+- Rodar migrations
+- Entendendo como Django armazena os dados (ORM do Django)
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/7)
+
+### Parte 8) Mais sobre os componentes | Teoria 📚
+
+- 👀 Acompanhe a vídeo aula
 - Componentes fundamentais da parte Front-end 🕹️ (onde o show acontece, os usuários fazem interação com a aplicação)
 - Componentes fundamentais da parte Back-end 🪁 (os batidores para organizar os dados, validar ou fazer algum processamento e depois devolver a `Resposta/Response` para Front-end)
 - É possível fazer um projeto Django apenas com uma das duas partes (Front-end ou Back-end)?
 - Como é feito a comunicação 🧵 entre Front-end e Back-end no Django?
-- Esta comunicação é diferente em projetos com o Front-end separado do Back-end?
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/8)
 
-### Parte 7) Vamos publicar nossa aplicação? Hey, olha que eu fiz | Mão na massa 👾🚀
+### Parte 9) Vamos publicar nossa aplicação? Hey, olha que eu fiz! | Mão na massa 👾🚀
 
+- 👀 Acompanhe a vídeo aula
 - Vamos publicar nossa aplicação Django (a.k.a Deploy)
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/9)
 
 ### Parte 8)
 
