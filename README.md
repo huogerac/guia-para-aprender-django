@@ -79,11 +79,15 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Rodar migrações
 - Faz sentido usar SQLite? 📈
 - Quais Apps 🧩 temos no projeto?
-- Como faço para saber as rotas do admin?
 - Admin?
 - Criar usuário e logar
 - Exibir o usuário logado
-- Descobrir os SQLs gerados pelo Django
+- Descobrir os [SQLs gerados pelo Django](https://django-debug-toolbar.readthedocs.io/en/latest/installation.html)
+- **✅ Links úteis...**
+- [django packages](https://djangopackages.org)
+- [django awesome](https://github.com/wsvincent/awesome-django)
+- [post sobre algumas apps bem usadas](https://www.crowdbotics.com/blog/best-open-source-django-packages-2020)
+- [Código Fonte da AULA](https://github.com/huogerac/django_cursos/tree/aula-05) 👌
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/5)
 
 ### Parte 6) Entendendo algumas coisinhas do Python & Django | Teoria 📚
