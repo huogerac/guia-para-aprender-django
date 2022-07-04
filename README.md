@@ -83,6 +83,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Admin?
 - Criar usuário e logar
 - Exibir o usuário logado
+- Descobrir os SQLs gerados pelo Django
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/5)
 
 ### Parte 6) Entendendo algumas coisinhas do Python & Django | Teoria 📚
@@ -136,6 +137,57 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - [https://www.tangowithdjango.com/](https://www.tangowithdjango.com/)
 - [https://godjango.com/](https://godjango.com/)
 - [https://www.youtube.com/c/Godjango/videos](https://www.youtube.com/c/Godjango/videos)
+
+### Ideias de conteúdo para alunos apresentarem
+
+- Paginação no Django
+- Django Robots & Sitemaps
+- Gerar DER do Banco & Transformar um DB em models
+- Customizando o Django Admin
+- Django Templates
+- Permissão & Autorização
+- Registro de usuários (Signup & Signin)
+- Customizando os campos da tabela User (Profile)
+- django_extensions
+- django-waffle
+- django honeypot
+- Usar AJAX no template para fazer uma chamada ao Django
+- Consultas avançadas no Django ORM (RAW SQL vs Django ORM)
+- Django Class Based Views
+- Criando um template (Estrutura modelo) de projeto Django
+- Django Forms
+
+### Ideias de projetos
+
+- **Speaker Fight**: Quando temos chamadas para envio de palestras, sempre temos um formulario apenas. Imagine uma aplicacao onde voce faz cadastro e depois pode submeter uma paletra. E qualquer pessoa pode entrar e votar qual
+  palestra quer assistir. A ideia e fazer um algoritmo que identifica as 2 paletras com a menor quantidade de `fight`. [Palestra 10] vs [Palestra 21]
+  exibindo uma descricao legal e quem sabe uma imagem bacana para cada paletra.
+  Assim o usuario consegue indicar entre as duas palestras, qual e a vencedora!
+  Fazendo este loop infinito, vamos conseguir obter a lista das paletras mais interessantes. Obs: Já existiu um app com este nome, mas uma interface bem diferente que não fazia o que o nome sugere
+
+- **Contador de caloria**: Um app onde cada usuário poderá registrar seu consumo de calorias por dia
+
+- **Todo App**: Um app para gerencia tarefas (todoist like)
+
+- **Pinterest Clone**: Um app para cada usuário postar imagens
+
+- **Tweeter Clone**: Auto explicativo
+
+- **Blog like hashnode**: Um blog para postar textos na ordem cronológica
+
+- **App para salvar notas**: Um lugar para cada usuário organizar suas notas (Google Keep Like)
+
+- **App para salvar senhas**: Um gerenciador de senhas
+
+- **App gerar VCard**: Um app onde obtem dados de contato e gera um VCard para o usuário conseguir compartilhar seu contato de forma mais profissional
+
+- **App para encurtar URLs**: Um app onde passamos URLs originais (geralmente longas), o app irá gerar uma versão super reduzida. Desta forma quando qualquer pessoa tentar acessar a versão reduzida, será redirecionada para a URL original
+
+- **App para salvar melhores links**: App para cada usuário organizar os infinitos links interessantes que recebemos por ai, já pensou ter categorias e que seja fácil localizar links sobre assuntos específicos
+
+- **Site status Checker**: Um app que podemos cadastrar outros sites que temos publicado, dai teremos um serviço que a cada 5 ou 10min irá verificar se nossos sites cadastrados estão retornando código de sucesso (Exemplo 200), em caso de um dos nossos sites ficar fora do ar (404, 500), devemos receber uma notificação ou email
+
+- **API de Ceps**: Fazer um app importanto todos os CEPs do site correios, e criar APIS amigáveis de forma que qualquer pessoa possa fazer uma requisição passando um CEP e ter na resposta um endereço completo ou mensagem de CEP inválido.
 
 ### Quer ajudar? 👷
 
