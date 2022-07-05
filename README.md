@@ -103,6 +103,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Null vs Blank
 - Unique, slug fields & sobreescrevendo o save()
 - **✅ Links úteis...**
+- [Código Fonte da AULA](https://github.com/huogerac/django_cursos/tree/aula-06) 👌
 - https://docs.djangoproject.com/en/4.0/ref/models/fields/
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/9)
 
