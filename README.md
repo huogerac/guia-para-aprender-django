@@ -90,9 +90,26 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - [Código Fonte da AULA](https://github.com/huogerac/django_cursos/tree/aula-05) 👌
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/5)
 
-### Parte 6) Entendendo algumas coisinhas do Python & Django | Teoria 📚
+### Parte 6) ORM, Models e um pouco do lado do DB | Mão na massa 👾👾
 
 - 👀 Acompanhe a vídeo aula
+- Criar uma tabela usando Model
+- DDL com makemigrations
+- Gerar script de migração
+- Aplicar migração
+- Criar dados
+- Acessar dados (DML Com MeuModel.objects)
+- Adicionando model no Admin
+- Null vs Blank
+- Unique, slug fields & sobreescrevendo o save()
+- **✅ Links úteis...**
+- https://docs.djangoproject.com/en/4.0/ref/models/fields/
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/9)
+
+### Parte 7) Entendendo algumas coisinhas do Python & Django | Teoria 📚
+
+- 👀 Acompanhe a vídeo aula
+- ForeignKey
 - Virtualenv?
 - Instalar dependências de S.O. (a.k.a `apt install`) e dependências da aplicação Python/Django (a.k.a `pip install`)
 - Fiquem tranquilos, logo mais também vamos falar de `Pipenv & Poetry` (Baby steps, lembra?)
@@ -198,3 +215,20 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Estamos trabalhando neste material, tem muito rascunho ainda! Se tiver qualquer tipo de crítica ou sugestão, queremos saber! 💡
 - Acesse o link abaixo e crie uma **nova discussão**
 - 👉 [Qualquer tipo de ajuda é mais que bem-vinda!](https://github.com/huogerac/guia-para-aprender-django/discussions)
+
+1 - O que voces entenderam para fazer no período da tarde?
+
+- Replicar o que já faz de manhã
+- Django
+- Django Girls
+- Pra tentar todo dia avançar no projeto final
+
+2 - O que é para fazer sobre os assuntos de sexta-feira?
+
+- Aprender Django, mas temos a oportunidade de escolher o assunto
+- Podemos trazer qualquer coisa de Django
+
+3 - Qual entendimento sobre o "Projetinho Um"
+
+- Fazer em grupo - OK
+- Prazo - ASAP
