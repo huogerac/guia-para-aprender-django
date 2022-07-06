@@ -93,6 +93,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 ### Parte 6) ORM, Models e um pouco do lado do DB | Mão na massa 👾👾
 
 - 👀 Acompanhe a vídeo aula
+- Utilizar um DB de produção no nosso Django local (Postgres ao invés SQLite)
 - Criar uma tabela usando Model
 - DDL com makemigrations
 - Gerar script de migração
@@ -110,22 +111,11 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 ### Parte 7) Entendendo algumas coisinhas do Python & Django | Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
-- ForeignKey
 - Virtualenv?
 - Instalar dependências de S.O. (a.k.a `apt install`) e dependências da aplicação Python/Django (a.k.a `pip install`)
 - Fiquem tranquilos, logo mais também vamos falar de `Pipenv & Poetry` (Baby steps, lembra?)
-- Gerenciar mais de uma versão do Python?
+- Gerenciar mais de uma versão do Python? (a.k.a `pyenv`)
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/6)
-
-### Parte 7) Entendendo algumas coisinhas do | Mão na massa 👾👾
-
-- 👀 Acompanhe a vídeo aula
-- Utilizar um DB de produção no nosso Django local (Postgres ao invés SQLite)
-- Como manter estado dos dados? Gerenciar N Bancos?
-- Onde fica a conexão com o BD
-- Rodar migrations
-- Entendendo como Django armazena os dados (ORM do Django)
-- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/7)
 
 ### Parte 8) Mais sobre os componentes | Teoria 📚
 
@@ -136,13 +126,24 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Como é feito a comunicação 🧵 entre Front-end e Back-end no Django?
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/8)
 
-### Parte 9) Vamos publicar nossa aplicação? Hey, olha que eu fiz! | Mão na massa 👾🚀
+### Parte 9) Entendendo algumas coisinhas do | Mão na massa 👾👾
+
+- 👀 Acompanhe a vídeo aula
+- Exibir os dados do Banco no Template
+- ForeignKey
+- Como manter estado dos dados? Gerenciar N Bancos?
+- Onde fica a conexão com o BD
+- **✅ Links úteis...**
+- [Exemplo de consultas usando Django ORM](https://speakerdeck.com/huogerac/django-orm-vs-sqlalchemy-queries)
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/8)
+
+### Parte 10) Vamos publicar nossa aplicação? Hey, olha que eu fiz! | Mão na massa 👾🚀
 
 - 👀 Acompanhe a vídeo aula
 - Vamos publicar nossa aplicação Django (a.k.a Deploy)
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/9)
 
-### Parte 8)
+### Parte 11)
 
 - Em construção 🧩 👷
 
