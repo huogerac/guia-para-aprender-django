@@ -115,26 +115,27 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Instalar dependências de S.O. (a.k.a `apt install`) e dependências da aplicação Python/Django (a.k.a `pip install`)
 - Fiquem tranquilos, logo mais também vamos falar de `Pipenv & Poetry` (Baby steps, lembra?)
 - Gerenciar mais de uma versão do Python? (a.k.a `pyenv`)
-- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/6)
+- 🎯 Veja os [slides sobre Virtualenv & dependencias Python/SO](./assets/Virtualenv-Dependencias-SO-vs-Python.pdf)
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/10)
 
-### Parte 8) Mais sobre os componentes | Teoria 📚
+### Parte 8) Models continuação | Mão na massa 👾👾
+
+- 👀 Acompanhe a vídeo aula
+- Exibir os dados do Banco no Template
+- ForeignKey
+- Ver os SQLs gerados
+- Onde fica a conexão com o BD
+- **✅ Links úteis...**
+- [Exemplo de consultas usando Django ORM](https://speakerdeck.com/huogerac/django-orm-vs-sqlalchemy-queries)
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/11)
+
+### Parte 9) Mais sobre os componentes | Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
 - Componentes fundamentais da parte Front-end 🕹️ (onde o show acontece, os usuários fazem interação com a aplicação)
 - Componentes fundamentais da parte Back-end 🪁 (os batidores para organizar os dados, validar ou fazer algum processamento e depois devolver a `Resposta/Response` para Front-end)
 - É possível fazer um projeto Django apenas com uma das duas partes (Front-end ou Back-end)?
 - Como é feito a comunicação 🧵 entre Front-end e Back-end no Django?
-- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/8)
-
-### Parte 9) Entendendo algumas coisinhas do | Mão na massa 👾👾
-
-- 👀 Acompanhe a vídeo aula
-- Exibir os dados do Banco no Template
-- ForeignKey
-- Como manter estado dos dados? Gerenciar N Bancos?
-- Onde fica a conexão com o BD
-- **✅ Links úteis...**
-- [Exemplo de consultas usando Django ORM](https://speakerdeck.com/huogerac/django-orm-vs-sqlalchemy-queries)
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/8)
 
 ### Parte 10) Vamos publicar nossa aplicação? Hey, olha que eu fiz! | Mão na massa 👾🚀
