@@ -123,6 +123,8 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - 👀 Acompanhe a vídeo aula
 - Exibir os dados do Banco no Template
 - ForeignKey
+- Usando 'related_name' para consulta invertida do ForeignKey: `js.aulas.all()` ou `autor1.cursos.all()`
+- url com filtro de PK
 - Ver os SQLs gerados
 - Onde fica a conexão com o BD
 - **✅ Links úteis...**
