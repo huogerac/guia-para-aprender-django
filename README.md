@@ -121,17 +121,34 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 ### Parte 8) Models continuação | Mão na massa 👾👾
 
 - 👀 Acompanhe a vídeo aula
-- Exibir os dados do Banco no Template
-- ForeignKey
+- Clonar o projeto (aula06), subir banco, subir projeto com as dependencias
+- Exibir os dados do Banco no Template (via context da View)
+- ForeignKey para relacionamentos 1 para N
 - Usando 'related_name' para consulta invertida do ForeignKey: `js.aulas.all()` ou `autor1.cursos.all()`
-- url com filtro de PK
-- Ver os SQLs gerados
-- Onde fica a conexão com o BD
+- Ver os SQLs gerados (usando debug_toolbar)
+- Criar tabela Aulas (1 Curso pode ter N Aulas)
 - **✅ Links úteis...**
-- [Exemplo de consultas usando Django ORM](https://speakerdeck.com/huogerac/django-orm-vs-sqlalchemy-queries)
-- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/11)
+  - [Iniciando a parte de Models](https://docs.djangoproject.com/pt-br/4.0/intro/tutorial02/)
+  - [Exemplo de consultas usando Django ORM](https://speakerdeck.com/huogerac/django-orm-vs-sqlalchemy-queries)
+  - [Tutorial para setup do projeto em menos de 5min](https://github.com/huogerac/django_cursos#readme)
+  - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/11)
+- **👾 Tarefas**
+  - Se liga nos canais do slack com as dicas & instruções de cada aula
+  - Se liga no código completo da [Aula 08](https://github.com/huogerac/django_cursos/tree/aula-08)
+  - Se liga **neste repositório guia** e no repositório [django_cursos](https://github.com/huogerac/django_cursos/)
+  - Pratique o passo de clonar e rodar o projeto, isto deveria ser feito em poucos minutos!
+  - Procure documentação extra sobre os assuntos da aula (Links Úteis & Links abaixo)
+  - **NÃO CONSEGUIU FAZER TUDO?** Avisa na hora 🐞, NUNCA deixe para o dia seguinte!
 
-### Parte 9) Mais sobre os componentes | Teoria 📚
+### Parte 9) Models continuação | Mão na massa 👾👾
+
+- 👀 Acompanhe a vídeo aula
+- Redirect de `/` para `/cursos` usando RedirectView
+- Criar rota `/cursos/pk/aulas/` (url com filtro de PK)
+- Criar template que exiba todas aulas de um determinado curso
+- App django_extensions (clean_pyc, create_command, generate_secret_key, graph_models)
+
+### Parte 10) Mais sobre os componentes | Teoria 📚
 
 - 👀 Acompanhe a vídeo aula
 - Componentes fundamentais da parte Front-end 🕹️ (onde o show acontece, os usuários fazem interação com a aplicação)
@@ -140,13 +157,13 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Como é feito a comunicação 🧵 entre Front-end e Back-end no Django?
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/8)
 
-### Parte 10) Vamos publicar nossa aplicação? Hey, olha que eu fiz! | Mão na massa 👾🚀
+### Parte 11) Vamos publicar nossa aplicação? Hey, olha que eu fiz! | Mão na massa 👾🚀
 
 - 👀 Acompanhe a vídeo aula
 - Vamos publicar nossa aplicação Django (a.k.a Deploy)
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/9)
 
-### Parte 11)
+### Parte 12)
 
 - Em construção 🧩 👷
 
