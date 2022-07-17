@@ -147,6 +147,8 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Criar rota `/cursos/pk/aulas/` (url com filtro de PK)
 - Criar template que exiba todas aulas de um determinado curso
 - App django_extensions (clean_pyc, create_command, generate_secret_key, graph_models)
+- Mudar a ordem da listagem de cursos conforme o campo no template
+- Páginas de Signin & Singup (login/cadastro)
 
 ### Parte 10) Mais sobre os componentes | Teoria 📚
 
@@ -157,29 +159,50 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Como é feito a comunicação 🧵 entre Front-end e Back-end no Django?
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/8)
 
-### Parte 11) Vamos publicar nossa aplicação? Hey, olha que eu fiz! | Mão na massa 👾🚀
+### Parte 11) Class Based Views para Criar e Editar Models | Mão na massa 👾
 
 - 👀 Acompanhe a vídeo aula
+- Criar uma página para cadastrar um novo curso
+- Criar uma página para editar um curso
+- Rodando Django em modo Debug
+- [GIT] Usando branch local para trabalhar em equipe
+- [GIT] Usando rebase, resolvendo conflitos
+- **✅ Links úteis...**
+  - [Post sobre rebase](http://blog.billcode.com.br/search/label/Git)
+  - [Codigo da AULA 11](https://github.com/huogerac/django_cursos/tree/aula-11)
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/12)
+
+### Parte 12) APIs no Django
+
+- 👀 Acompanhe a vídeo aula
+- Like de Cursos com Forms
+- Entendendo os tipos de retornos da View
+- Like de Cursos usando API
+- Módulo de services para melhor organização e reuso de código
+- Entendendo as camadas da aplicação
+- **👾 Tarefas**
+  - Pratique o que foi feito na aula
+  - Adicione a funcionalidade para permitir ordenar por cursos com mais Likes
+- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/13)
+
+### Parte 13) Vamos publicar nossa aplicação? | Mão na massa 👾🚀
+
 - Vamos publicar nossa aplicação Django (a.k.a Deploy)
-- 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/9)
 
-### Parte 12)
-
-- Em construção 🧩 👷
-
-### Parte ...)
+### Parte 14) 👾
 
 - Em construção 🧩 👷
 
 ### Links úteis para quem quer se aprofundar 🤿 ⛏️
 
-- [https://tutorial.djangogirls.org/pt/](https://tutorial.djangogirls.org/pt/) 👌
-- [https://docs.djangoproject.com/pt-br/4.0/](https://docs.djangoproject.com/pt-br/4.0/) 👌
-- [http://www.gettingstartedwithdjango.com/](http://www.gettingstartedwithdjango.com/)
-- [https://realpython.com/get-started-with-django-1/](https://realpython.com/get-started-with-django-1/)
-- [https://www.tangowithdjango.com/](https://www.tangowithdjango.com/)
-- [https://godjango.com/](https://godjango.com/)
-- [https://www.youtube.com/c/Godjango/videos](https://www.youtube.com/c/Godjango/videos)
+- [Tutorial.djangogirls.org](https://tutorial.djangogirls.org/pt/) 👌
+- [Docs.djangoproject.com pt-br](https://docs.djangoproject.com/pt-br/4.0/) 👌
+- [CodeMy Django Youtube Playlist](https://www.youtube.com/watch?v=HHx3tTQWUx0&list=PLCC34OHNcOtqW9BJmgQPPzUpJ8hl49AGy)
+- [Gettingstartedwithdjango.com](http://www.gettingstartedwithdjango.com/)
+- [Realpython.com/get-started-with-django-1](https://realpython.com/get-started-with-django-1/)
+- [Tangowithdjango.com](https://www.tangowithdjango.com/)
+- [Go Django.com](https://godjango.com/)
+- [Go Django Youtube Playlist](https://www.youtube.com/c/Godjango/videos)
 
 ### Ideias de conteúdo para alunos apresentarem
 
