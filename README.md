@@ -170,16 +170,24 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - **✅ Links úteis...**
   - [Post sobre rebase](http://blog.billcode.com.br/search/label/Git)
   - [Codigo da AULA 11](https://github.com/huogerac/django_cursos/tree/aula-11)
+- **👾 Tarefas**
+  - Pratique o que foi feito na aula
+  - Adicione o campo imagem para não ter a imagem fixa para todos os cursos
 - 🐞 Dúvidas ou qualquer informação adicional [AQUI 💬](https://github.com/huogerac/guia-para-aprender-django/issues/12)
 
 ### Parte 12) APIs no Django
 
 - 👀 Acompanhe a vídeo aula
 - Like de Cursos com Forms
+  - get_object_or_404
 - Entendendo os tipos de retornos da View
 - Like de Cursos usando API
 - Módulo de services para melhor organização e reuso de código
 - Entendendo as camadas da aplicação
+- Como está os SQLs gerados na tela de litar cursos? Algum problema?
+- **✅ Links úteis...**
+    - [unique together](https://docs.djangoproject.com/en/4.0/ref/models/options/#unique-together)
+    - [tipos de joins](https://www.pinterest.com.au/pin/780319072954977213/)
 - **👾 Tarefas**
   - Pratique o que foi feito na aula
   - Adicione a funcionalidade para permitir ordenar por cursos com mais Likes
@@ -187,6 +195,8 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 
 ### Parte 13) Vamos publicar nossa aplicação? | Mão na massa 👾🚀
 
+- Usar slug ao invés do id
+- Usar o método `get_absolute_url`
 - Vamos publicar nossa aplicação Django (a.k.a Deploy)
 
 ### Parte 14) 👾
@@ -222,6 +232,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Django Class Based Views
 - Criando um template (Estrutura modelo) de projeto Django
 - Django Forms
+- Montar um S3 local com Min.io para salvar imagens em storage exerno
 
 ### Ideias de projetos
 
