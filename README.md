@@ -185,6 +185,7 @@ A melhor forma é simplesmente seguir os arquivos de texto no formato [Markdown]
 - Módulo de services para melhor organização e reuso de código
 - Entendendo as camadas da aplicação
 - Como está os SQLs gerados na tela de litar cursos? Algum problema?
+- O que acontece quando o usuário não está logado?
 - **✅ Links úteis...**
     - [unique together](https://docs.djangoproject.com/en/4.0/ref/models/options/#unique-together)
     - [tipos de joins](https://www.pinterest.com.au/pin/780319072954977213/)
